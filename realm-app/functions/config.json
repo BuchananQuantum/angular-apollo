@@ -1,16 +1,16 @@
 [
     {
+        "name": "createNewUserDocument",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
         "name": "resetFunc",
         "private": false,
         "disable_arg_logs": true
     },
     {
         "name": "updateCollectionView",
-        "private": false,
-        "disable_arg_logs": true
-    },
-    {
-        "name": "createNewUserDocument",
         "private": false,
         "disable_arg_logs": true
     }
