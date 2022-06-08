@@ -1,0 +1,8 @@
+{
+    "author": {
+        "ref": "#/relationship/angular-apollo/sample_mflix/users",
+        "source_key": "author",
+        "foreign_key": "name",
+        "is_list": false
+    }
+}
